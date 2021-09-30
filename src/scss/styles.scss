@@ -269,3 +269,25 @@
     cursor: pointer;
   }
 }
+
+#no-mobile {
+  position: absolute;
+  z-index: 99;
+  height: 100vh;
+  width: 100vw;
+  background-color: $bg;
+  display: flex;
+  top: 0;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+}
+
+@media screen and (min-width: 645px) {
+  #no-mobile {
+    display: none;
+  }
+}
