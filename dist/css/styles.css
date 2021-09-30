@@ -221,7 +221,7 @@
   text-transform: uppercase;
 }
 .sidebar_container .other_image {
-  background-image: url("/img/explain.png");
+  background-image: url("img/explain.png");
   background-position: center;
   background-size: 650px 550px;
   grid-column: 2/-2;
