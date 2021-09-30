@@ -33,7 +33,7 @@
     text-transform: uppercase;
   }
   .other_image {
-    background-image: url("img/explain.png");
+    background-image: url("https://github.com/chuhongkyu/scss_grid/blob/main/img/explain.png?raw=true");
     background-position: center;
     background-size: 650px 550px;
     grid-column: 2 /-2;
@@ -87,7 +87,7 @@
   .center-image {
     grid-column: 2 /-2;
     grid-row: 2/ -2;
-    background-image: url("img/index.jpg");
+    background-image: url("https://github.com/chuhongkyu/scss_grid/blob/main/img/home.jpg?raw=true");
     background-size: cover;
     background-position: center;
     transition: background 0.5s ease-in-out;
