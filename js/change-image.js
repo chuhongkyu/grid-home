@@ -23,55 +23,55 @@ menubtn2.addEventListener("mousedown", menuOpen);
 const centerImg = document.querySelector(".center-image");
 
 function defaultImg(){
-    centerImg.style.backgroundImage = "url('img/number/home.jpg')";
+    centerImg.style.backgroundImage = "url('img/home.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
 }
 
 function HomeIn(){
-    centerImg.style.background = "url('img/number/index.jpg')";
+    centerImg.style.background = "url('img/index.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function ArtIn(){
-    centerImg.style.background = "url('img/number/Artworks.jpg')";
+    centerImg.style.background = "url('img/Artworks.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function profilIn(){
-    centerImg.style.background = "url('img/number/profile.jpg')";
+    centerImg.style.background = "url('img/profile.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function NFTIn(){
-    centerImg.style.background = "url('img/number/NFT.jpg')";
+    centerImg.style.background = "url('img/NFT.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function threeDIn(){
-    centerImg.style.background = "url('img/number/print.jpg')";
+    centerImg.style.background = "url('img/print.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function teachIn(){
-    centerImg.style.background = "url('img/number/teach.jpg')";
+    centerImg.style.background = "url('img/teach.jpg')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
 }
 
 function appIn(){
-    centerImg.style.background = "url('img/number/APP.png')";
+    centerImg.style.background = "url('img/APP.png')";
     centerImg.style.backgroundPosition = "center";
     centerImg.style.backgroundSize = "cover";
     console.log("check");
