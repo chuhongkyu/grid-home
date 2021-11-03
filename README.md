@@ -1,1 +1,1 @@
-# SCSS JYP
+# SCSS
