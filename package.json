@@ -1,8 +1,8 @@
 {
-  "name": "scss-masterclass",
+  "name": "grid-home",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/nomadcoders/scss-masterclass",
+  "repository": "https://https://github.com/chuhongkyu/grid-home",
   "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
   "license": "MIT",
   "dependencies": {
